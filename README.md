@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi+there%2C+I+am+beginner+coder;I+learn+on+freeCodeCamp.org+;Check+out+my+repositories+)](https://git.io/typing-svg)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4c1c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4c1c&layout=compact)](https://github.com/b4c1c/github-readme-stats)
 
 <!--
 **b4c1c/b4c1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
