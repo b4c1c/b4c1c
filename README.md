@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi+there%2C+I+am+beginner+coder;I+learn+on+freeCodeCamp.org+;Check+out+my+repositories+)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on personal portfolio page project from [freeCodeCamp.org curriculum](https://www.freecodecamp.org/learn)
+- 🔭 I’m currently working on personal portfolio webpage project from [freeCodeCamp.org curriculum](https://www.freecodecamp.org/learn)
 - 🌱 I’m currently learning HTML and CSS
 
 <!--
