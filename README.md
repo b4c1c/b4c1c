@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi+there%2C+I+am+beginner+coder;Check+out+my+repositories+)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently learning JavaScript
-- 🌱 I’m currently practicing HTML, CSS and JavaScript
+- 🔭 I’m currently learning & practicing React
+
 
 <!--
 **b4c1c/b4c1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
