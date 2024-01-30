@@ -1,12 +1,14 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi+there%2C+I+am+beginner+coder;Check+out+my+repositories+)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently learning Network+
 
 
 <!--
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi+there%2C+I+am+beginner+coder;Check+out+my+repositories+)](https://git.io/typing-svg)
+
 **b4c1c/b4c1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
